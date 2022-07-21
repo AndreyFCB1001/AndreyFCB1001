@@ -8,7 +8,7 @@
 .menu{
     display: flex;
     justify-content: space-between;
-    background-color: red;
+    background-color: rgb(0, 247, 255);
 }
 .menu a{
     text-decoration: none;
